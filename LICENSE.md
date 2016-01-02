@@ -1,6 +1,10 @@
 The Dec.jl package is licensed under the MIT "Expat" License:
 
-> Copyright (c) 2016: ScottPJones.
+Copyright (c) 2015-2016 Gandalf Software, Inc. (Scott P. Jones)
+
+Portions are derived from the decNumber C library,
+which is provided under the ICU 1.8.1 license (see deps/decNumber/readme.txt)
+
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
